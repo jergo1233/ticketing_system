@@ -1,0 +1,6 @@
+{
+  "name": "HelpDeskPro - Enterprise IT Ticketing & Incident Management",
+  "description": "Modern enterprise IT ticketing system with RBAC, SLA tracking, audit trails, analytics dashboards, and Gemini AI triage and response generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
